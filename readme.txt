@@ -1,1 +1,1 @@
-testando teste som + funcionalidade2
+testando teste som + funcionalidade2 + funcionalidade1
